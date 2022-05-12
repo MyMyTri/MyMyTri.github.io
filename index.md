@@ -69,12 +69,13 @@ body {
 
 <body>
 
+  [^4]
 <div class="topnav">
   <a href = "Us.html"> Us</a>            <a href = "Our products.html"> Our products</a> <a href = "Contact.html"> Contact</a>            
 </div>
 
 
-
+[^4]
 <h2>Candy Dimension</h2>
 
 <p>Welcome to Candy Dimension ! </p>
