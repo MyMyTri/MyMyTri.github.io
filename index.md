@@ -26,8 +26,6 @@ p {
 
 <br>
 <br>
-<br>
-<br>
 <div class="header">
   <h1>Candy Shop</h1>
 </div>
@@ -153,6 +151,15 @@ body {
 <br>
 <br>
 <br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
       <h3>Follow Me</h3>
       <p>On Instagram : @Candydimension</p>
 
