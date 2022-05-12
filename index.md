@@ -154,19 +154,6 @@ body {
 <br>
 <br>
 
-    <div class="card">
-
-
-<br>
-<br>
-<br>
-
-  
-<div class="row">
-  <div class="column">
-    </div>
-    <div class="card">
-      <br>
 <br>
 <br>
 <br>
@@ -174,6 +161,7 @@ body {
 <br>
 <br>
 <br>
+     
 <br>
       <h3>Follow Me</h3>
       <p>On Instagram : @Candydimension</p>
