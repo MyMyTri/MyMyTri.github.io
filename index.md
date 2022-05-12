@@ -1,7 +1,10 @@
 ## First web pages with GitHub !
 
+Support by [Jekyll](https://jekyllrb.com/), the Candy Dimension came to life !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Candy Dimension</h2>
+
+<p>Welcome to Candy Dimension ! </p>
 
 ### Markdown
 
