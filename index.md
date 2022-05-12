@@ -30,9 +30,18 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Popular Posts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyMyTri/MyMyTri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <div class="card">
+      <h3>Popular Post</h3>
+
+<a href="Gateauauyaourtpage.html"><img src="Gatauyaimg.png" width="277px" height="170px " style="position: absolute; top: 670px; left: 300px; border: 2px solid pink;"></a>
+
+
+<a href="Biscuitssecspage.html"><img src="Biscuitssecsimg.png" width="277px" height="170px " style="position: absolute; top: 670px; left: 600px; border: 2px solid pink;"></a>
+
+
+    <div class="card">
 
 ### Support or Contact
 
