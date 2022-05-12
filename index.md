@@ -21,7 +21,7 @@ p {
   background: hsla(120,60%,70%,0.3);
 }
 </style>
-</head>
+
 <body>
 
 
@@ -66,7 +66,7 @@ body {
 
 
 </style>
-</head>
+
 <body>
 
 <div class="topnav">
