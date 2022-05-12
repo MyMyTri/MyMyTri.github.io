@@ -134,12 +134,7 @@ body {
 <br>
 <br>
     <div class="card">
-      <h3>Popular Post</h3>
 
-<a href="Gateauauyaourtpage.html"><img src="Gatauyaimg.png" width="277px" height="170px " style="position: absolute; top: 670px; left: 300px; border: 2px solid pink;"></a>
-
-
-<a href="Biscuitssecspage.html"><img src="Biscuitssecsimg.png" width="277px" height="170px " style="position: absolute; top: 670px; left: 600px; border: 2px solid pink;"></a>
 
 
     <div class="card">
@@ -155,10 +150,20 @@ body {
 <br>
 <br>
 
+  
 <div class="row">
   <div class="column">
     </div>
     <div class="card">
+      <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
       <h3>Follow Me</h3>
       <p>On Instagram : @Candydimension</p>
     </div>
