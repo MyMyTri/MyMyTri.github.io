@@ -72,6 +72,7 @@ body {
 <br>
 <br>
 <br>
+<br>
 
 <div class="topnav">
   <a href = "Us.html"> Us</a>            <a href = "Our products.html"> Our products</a> <a href = "Contact.html"> Contact</a>            
@@ -138,7 +139,6 @@ body {
     </div>
 <br>
 <br>
-
 <br>
 <br>
 <br>
@@ -146,10 +146,11 @@ body {
 <br>
 <br>
 <br>
-     
+<br>
+<br>
+<br>
+<br>
 <br>
       <h3>Follow Me</h3>
       <p>On Instagram : @Candydimension</p>
- 
 
-</body>
