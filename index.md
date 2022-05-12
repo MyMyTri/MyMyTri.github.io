@@ -136,30 +136,4 @@ body {
 
    
    </div>
-    </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      <h3>Follow Me</h3>
-      <p>On Instagram : @Candydimension</p>
 
