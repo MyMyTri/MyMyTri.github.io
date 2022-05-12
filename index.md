@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
 <style>
 body {background-color: #00ff0020;}
 
@@ -90,7 +88,7 @@ body {
   </div>
  
 
-   <img src="Candy.png" style="float: right; margin-right: 5px; width:  320px ;position: absolute; top: 15px; left: 1000px; border: 2px solid purple;"></img>
+   <img src="Candy.png" style="float: right; margin-right: 5px; width:  320px ;position: absolute; top: 15px; left: 1000px; border: 2px solid purple;">
 
  
   
