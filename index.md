@@ -96,10 +96,19 @@ body {
     <p>Candy comes in different colors and shapes. Numerous recipe have been created to satisfy our sugar teeth. In this website, you will discover the recipes of candies created all over the world. And don't worry, for sure, there is a candy made especially for you !</p>
   </div>
  
-
+<br>
+<br>
+<br>
+<br>
+<br>
    <img src="Candy.png" style="float: right; margin-right: 5px; width:  320px ;position: absolute; top: 15px; left: 1000px; border: 2px solid purple;">
 
- 
+ <br>
+<br>
+<br>
+<br>
+<br>
+
   
 </div>
 
