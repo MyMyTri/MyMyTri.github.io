@@ -26,6 +26,7 @@ p {
 
 <br>
 <br>
+<br>
 <div class="header">
   <h1>Candy Shop</h1>
 </div>
