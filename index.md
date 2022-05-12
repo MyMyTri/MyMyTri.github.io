@@ -156,10 +156,6 @@ body {
 <br>
       <h3>Follow Me</h3>
       <p>On Instagram : @Candydimension</p>
-    </div>
-  </div>
-    </div>
-  </div>
-</div>
+ 
 
 </body>
