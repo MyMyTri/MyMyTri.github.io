@@ -69,13 +69,29 @@ body {
 
 <body>
 
-  [^4]
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div class="topnav">
   <a href = "Us.html"> Us</a>            <a href = "Our products.html"> Our products</a> <a href = "Contact.html"> Contact</a>            
 </div>
 
 
-[^4]
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2>Candy Dimension</h2>
 
 <p>Welcome to Candy Dimension ! </p>
